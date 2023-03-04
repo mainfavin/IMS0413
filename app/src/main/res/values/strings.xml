@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">S04E13</string>
+    <string name="Actividad1">"Arquitectura."</string>
+    <string name="Actividad2">"Negocio."</string>
+    <string name="Actividad3">"Conostruibles."</string>
+    <string name="Actividad4">"Culinario."</string>
+    <string name="Actividad5">"Diseno."</string>
+    <string name="Actividad6">"Dibujo."</string>
+    <string name="Actividad7">"Moda."</string>
+    <string name="Actividad8">"Cine."</string>
+    <string name="Actividad9">"Ocio."</string>
+    <string name="Actividad10">"EstiloDeVida."</string>
+    <string name="Actividad11">"Musica."</string>
+    <string name="Actividad12">"Pintura."</string>
+    <string name="Actividad13">"Fotografia."</string>
+    <string name="Actividad14">"Teconologia."</string>
+</resources>
